@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="13" viewBox="0 0 24 13">
+  <g class="keyboard">
+    <!-- Border -->
+    <path fill="#74888d" stroke="none" d="M0 0h24v1h-24"/>
+    <path fill="#74888d" stroke="none" d="M0 12h24v1h-24"/>
+    <path fill="#74888d" stroke="none" d="M0 1v11h1v-11"/>
+    <path fill="#74888d" stroke="none" d="M23 1v11h1v-11"/>
+    <!-- Keys -->
+    <path fill="#74888d" stroke="none" d="M2 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M5 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M8 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M11 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M14 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M17 2h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M20 2h2v1h-2"/>
+
+    <path fill="#74888d" stroke="none" d="M2 4h1v1h-1"/>
+    <path fill="#74888d" stroke="none" d="M4 4h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M7 4h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M10 4h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M13 4h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M16 4h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M19 4h3v1h-3"/>
+
+    <path fill="#74888d" stroke="none" d="M2 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M5 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M8 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M11 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M14 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M17 6h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M20 6h2v1h-2"/>
+
+    <path fill="#74888d" stroke="none" d="M2 8h3v1h-3"/>
+    <path fill="#74888d" stroke="none" d="M6 8h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M9 8h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M12 8h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M15 8h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M18 8h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M21 8h1v1h-1"/>
+
+    <path fill="#74888d" stroke="none" d="M2 10h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M5 10h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M8 10h7v1h-7"/>
+    <path fill="#74888d" stroke="none" d="M16 10h2v1h-2"/>
+    <path fill="#74888d" stroke="none" d="M19 10h3v1h-3"/>
+  </g>
+</svg>

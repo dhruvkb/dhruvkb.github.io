@@ -1,0 +1,40 @@
+<pre><code class="language-java">/**
+ * LecTut is the official study portal of IIT Roorkee.
+ * Students and professors upload study material
+ * such as lecture notes, classroom slide decks and quizzes.
+ *
+ * @active February &ndash; April 2017
+ * @requires Java (Android), XML
+ */
+public class LecTut {
+  String[] attributes;
+  HashMap&lt;String, String&gt; links;
+
+  /**
+   * Mandatory default constructor
+   */
+  public LecTut() {
+    // Do nothing
+  }
+
+  /**
+   * Mandatory default constructor
+   */
+  public static LecTut newInstance() {
+    LecTut app = new LecTut();
+
+    app.attributes = {
+      'Developed a companion Android app for LecTut.',
+      'Built offline capabilities into the app.',
+      'Allows study from downloaded sources.'
+    }
+
+    app.links.put(
+      'Play store',
+      'https://play.google.com/store/apps/details?id=in.channeli.lectut'
+    )
+
+    return app;
+  }
+}
+</code></pre>
